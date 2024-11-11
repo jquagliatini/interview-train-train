@@ -8,6 +8,10 @@
         "data": {
             "root": "apps/darjeeling.ltd/train-data",
             "entryFile": "main"
+        },
+        "reference": {
+            "root": "apps/darjeeling.ltd/booking-reference",
+            "entryFile": "main"
         }
     }
 }
