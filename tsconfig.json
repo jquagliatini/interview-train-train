@@ -13,6 +13,7 @@
     "incremental": true,
     "paths": {
       "@train-train/*": ["train-train/*"],
+      "@djld-train/*": ["darjeeling.ltd/train-data/*"],
     }
   }
 }

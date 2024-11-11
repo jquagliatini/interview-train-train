@@ -4,6 +4,10 @@
         "train": {
             "root": "apps/train-train",
             "entryFile": "main"
+        },
+        "data": {
+            "root": "apps/darjeeling.ltd/train-data",
+            "entryFile": "main"
         }
     }
 }
