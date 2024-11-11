@@ -14,7 +14,7 @@
     "paths": {
       "@train-train/*": ["train-train/*"],
       "@djld-train/*": ["darjeeling.ltd/train-data/*"],
-      "@djld-ref/*": ["darjeeling.ltd/booking-reference/*"],
+      "@djld-ref/*": ["darjeeling.ltd/booking-reference/*"]
     }
   }
 }
